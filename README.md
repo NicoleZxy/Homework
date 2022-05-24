@@ -1,2 +1,9 @@
 # May2022_homework
-An assessment assignment of 2022 Summer Quant Internship
+
+Author: Nicole Zhao  
+Date: 5/23/2022
+
+`get_hours.py`: contains functions to calculate hours given iso, peak type and period.  
+`Assignment 1.ipynb`   
+`Assignment 2.ipynb`   
+`Assignment 3.ipynb`: realizing the assignments requirements.
